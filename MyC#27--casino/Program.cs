@@ -101,6 +101,14 @@ namespace MyC_27__casino
             Casino balance = new Casino(1000);
             int yntrutyun;
             Console.WriteLine("stexe");
+
+
+
+
+
+
+
+
             do
             {
                 balance.ShowBalance();
