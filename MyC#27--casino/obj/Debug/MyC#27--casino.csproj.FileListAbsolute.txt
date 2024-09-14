@@ -1,0 +1,7 @@
+C:\Users\MyASUS\source\repos\MyC#27--casino\MyC#27--casino\bin\Debug\MyC#27--casino.exe.config
+C:\Users\MyASUS\source\repos\MyC#27--casino\MyC#27--casino\bin\Debug\MyC#27--casino.exe
+C:\Users\MyASUS\source\repos\MyC#27--casino\MyC#27--casino\bin\Debug\MyC#27--casino.pdb
+C:\Users\MyASUS\source\repos\MyC#27--casino\MyC#27--casino\obj\Debug\MyC#27--casino.csproj.AssemblyReference.cache
+C:\Users\MyASUS\source\repos\MyC#27--casino\MyC#27--casino\obj\Debug\MyC#27--casino.csproj.CoreCompileInputs.cache
+C:\Users\MyASUS\source\repos\MyC#27--casino\MyC#27--casino\obj\Debug\MyC#27--casino.exe
+C:\Users\MyASUS\source\repos\MyC#27--casino\MyC#27--casino\obj\Debug\MyC#27--casino.pdb
