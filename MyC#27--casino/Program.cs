@@ -97,8 +97,10 @@ namespace MyC_27__casino
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("kodem avelacre");
             Casino balance = new Casino(1000);
             int yntrutyun;
+            Console.WriteLine("stexe");
             do
             {
                 balance.ShowBalance();
